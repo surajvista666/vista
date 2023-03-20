@@ -5,6 +5,6 @@ public class sum {
         int y=45;
         int Sum;
         Sum = x+y;
-        System.out.println(Sum);
+        System.out.println("Sum of 12 and 45 is " + Sum);
     }
 }
